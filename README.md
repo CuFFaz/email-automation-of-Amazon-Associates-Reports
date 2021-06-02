@@ -6,3 +6,5 @@ The reports could either be attached to the mail or pasted in the email body its
 1. login.py is where all the customisation and configuration should be done.
 
 2. Running run.py will directly mail the reports captured in a .png format.
+
+(This uses chrome to access the affiliates website, so the chromedriver path should properly match the path given in the run.py file)
